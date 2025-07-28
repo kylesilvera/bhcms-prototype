@@ -17,3 +17,9 @@ See `tests/TEST_REPORT.md` for manual test cases.
 
 ## Branching Model
 We use `feature/*` branches, PRs into `main`, and descriptive `feat:`/`chore:` commits.
+## Test Accounts
+
+| Role     | Username   | Password |
+|----------|------------|----------|
+| Customer | `customer1`| `pass123`|
+| Staff    | `staff1`   | `pass123`|ß
