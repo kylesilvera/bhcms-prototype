@@ -1,0 +1,16 @@
+# Ignore everything...
+*
+# Except these files/folders
+!.gitignore
+!init.sql
+!config.php
+!hash.php
+!login.php
+!logout.php
+!menu.php
+!order_process.php
+!staff_orders.php
+!view_order.php
+!README.md
+!tests/
+!tests/TEST_REPORT.md
